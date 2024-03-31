@@ -3,6 +3,7 @@
 Remarks:
 
 * No country means UK.
+* No format means CD, including CD-singles and CD EPs.
 
 | Title | Cat.No. |
 |---|---|
