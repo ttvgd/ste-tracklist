@@ -14,10 +14,12 @@ Pedantic corner: Sorting is done according to the actual spelling, which means t
 
 This is a work in progress. Currently you can take a look at:
 
+[Albums](albums.md)
+
 * [0-9](0-9.md)
 * [A](a.md)
 * B
 * C
 * ...
 
-If you're curious, all changes can be viewed in the [GitHub repo](https://github.com/ttvgd/ste-tracklist).
+If you're curious, all changes can be viewed in the [GitHub repo](https://github.com/ttvgd/ste-tracklist). Click on "[Number] Commits" to see what has changed.
