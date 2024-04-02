@@ -89,7 +89,7 @@
 **(3:51)**
 
 * Action [CD1] (2002)
-* Travel Edition 1990-2005 (2004)
+* Travel Edition 1990-2005 (2004 USA)
 * London Conversations: The Best Of Saint Etienne (2008)
 
 **(4:27)** Laub¹ = Laub Mix
@@ -200,7 +200,7 @@
 **(4:16)** = Broadcast¹
 
 * Casino Classics (1996)¹
-* Continental (1997)
+* Continental (1997 Japan)
 * Continental – Deluxe Edition (2009)
 * Casino Classics – Deluxe Edition (2012)¹
 
@@ -230,7 +230,7 @@
 
 **(2:45)**
 
-* Nothing Left To Talk About (2015 DL)
+* Nothing Left To Talk About (2015 Download)
 
 ## Answer Song
 
@@ -317,7 +317,7 @@ Smash The System (Singles And More) (2001)
 
 **(4:46)**
 
-* Places To Visit (1999)
+* Places To Visit (1999 USA)
 * Sound Of Water – Deluxe Edition (2009)
 
 ## Aspects Of Lambert
@@ -342,7 +342,7 @@ Smash The System (Singles And More) (2001)
 **(3:48)** = Radio Edit¹
 
 * Avenue (1992 Promo)
-* Travel Edition 1990-2005 (2004)
+* Travel Edition 1990-2005 (2004 USA)
 * Smash The System (Singles 1990-99) (2005)¹
 * London Conversations: The Best Of Saint Etienne (2008)
 * Saint Etienne On 45. Part One (2011 6×7")
@@ -369,10 +369,10 @@ Smash The System (Singles And More) (2001)
 
 **(7:34)**
 
-* Smash The System (Singles And More) (2001)
-* Too Young To Die (Singles 1990-1995) (1995)
 * Avenue (1992)
-* Fairy Tales From Saint Etienne (1995)
+* Too Young To Die (Singles 1990-1995) (1995)
+* Fairy Tales From Saint Etienne (1995 Japan)
+* Smash The System (Singles And More) (2001)
 
 **(7:40)**
 
@@ -380,5 +380,5 @@ Smash The System (Singles And More) (2001)
 
 * So Tough (1993)
 * So Tough – Deluxe Edition (2009)
-* So Tough – 30th Anniversary Edition (2024)
+* So Tough – 30th Anniversary Edition (2024 LP)
 
