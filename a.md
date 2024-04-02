@@ -339,4 +339,46 @@ Smash The System (Singles And More) (2001)
 
 ## Avenue
 
-**(3:48)** = Radio Edit
+**(3:48)** = Radio Edit¹
+
+* Avenue (1992 Promo)
+* Travel Edition 1990-2005 (2004)
+* Smash The System (Singles 1990-99) (2005)¹
+* London Conversations: The Best Of Saint Etienne (2008)
+* Saint Etienne On 45. Part One (2011 6×7")
+
+**(5:19)** Venusian Mix
+
+* Avenue (A.R. Kane / Gordon King Remixes) (1992)
+
+**(5:57)** Butlins Mix
+
+* Avenue (A.R. Kane / Gordon King Remixes) (1992)
+
+**(6:21)** Gordon King¹ = Variety Club Mix
+
+* Avenue (A.R. Kane / Gordon King Remixes) (1992)
+* Casino Classics (1996)¹
+* Casino Classics – Deluxe Edition (2012)¹
+
+**(6:27)** A.R. Kane¹ = A.R. Kane Martial Mix² = Martial Mix
+
+* Avenue (A.R. Kane / Gordon King Remixes) (1992)
+* Casino Classics – Deluxe Edition \|\| Bonus Downloads (2012)¹
+* Mondo Casino (2018)²
+
+**(7:34)**
+
+* Smash The System (Singles And More) (2001)
+* Too Young To Die (Singles 1990-1995) (1995)
+* Avenue (1992)
+* Fairy Tales From Saint Etienne (1995)
+
+**(7:40)**
+
+> Outro sample 0:15
+
+* So Tough (1993)
+* So Tough – Deluxe Edition (2009)
+* So Tough – 30th Anniversary Edition (2024)
+
