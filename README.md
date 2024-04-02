@@ -2,7 +2,7 @@
 
 The Saint Etienne Trackless is an attempt to list all tracks by Saint Etienne, Sarah Cracknell and most collaborations. Everything is sorted alphabetically and according to track durations. This includes alternative versions and remixes.
 
-For each variant, the primary releases are shown. Please notice that CDs are preferred over vinyl when possible. Promos are only referred if they contain unique tracks or is the first time a specific variant is released.
+For each variant, the primary releases are shown. Please notice that CDs are preferred over vinyl when possible. Promos are only referred to if they contain unique tracks or it is the first time a specific variant was released.
 
 For more details regarding the releases, se this [list](albums.md). The primary source for albums and tracks is [Discogs](https://discogs.com) but of course [Saint Etienne Disco](https://saintetiennedisco.com) has been invaluable.
 
