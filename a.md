@@ -141,7 +141,7 @@
 **(6:22)**
 
 * After The Rain (2021)
-* The Character Of Saint Etienne (2022 LP+DL)
+* The Character Of Saint Etienne (2022 LP+Download)
 
 ## All Kinds Of People — *The Dreaming Spires feat. Sarah Cracknell*
 
@@ -172,7 +172,7 @@
 
 **(4:54)** Saint Etienne Remix
 
-* An Old Photo Of Your New Lover (Saint Etienne Remix) (2011 DL)
+* An Old Photo Of Your New Lover (Saint Etienne Remix) (2011 Download)
 
 ## Andersen Unbound
 
