@@ -8,6 +8,8 @@ For more details regarding the releases, se this [list](albums.md). The primary 
 
 Track duractions can be a challenge. Often durations include several seconds of silence at the end of the track. This can easily make tracks that are actually the same appear different. When possible, I have checked the digital editions of tracks in my possesion for the actual durations. This means that you will find tracks where the duration I list is not necessary similar to what is either printed on the album or what your preferred streaming app or player of digital files state. I have also tried to take into considation any intro or outro samples or other artifacts that might appear.
 
+Pedantic corner: Sorting is done according to the actual spelling, which means that "a" and "the" are part of the sorting. If you don't like it, well…
+
 ---
 
 This is a work in progress. Currently you can take a look at:
