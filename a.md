@@ -141,7 +141,7 @@
 **(6:22)**
 
 * After The Rain (2021)
-* The Character Of Saint Etienne (2022 LP+Download)
+* The Character Of Saint Etienne (2022)
 
 ## All Kinds Of People — *The Dreaming Spires feat. Sarah Cracknell*
 
@@ -380,5 +380,5 @@ Smash The System (Singles And More) (2001)
 
 * So Tough (1993)
 * So Tough – Deluxe Edition (2009)
-* So Tough – 30th Anniversary Edition (2024 LP)
+* So Tough – 30th Anniversary Edition (2024)
 
