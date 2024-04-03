@@ -159,7 +159,7 @@
 
 **(3:10)**
 
-> Start with last part of [Tankerville]() for 0:15
+> Starts with last part of [Tankerville]() for 0:15
 
 * Tiger Bay (1996 Europe)
 
