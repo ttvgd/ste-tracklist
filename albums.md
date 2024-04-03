@@ -254,9 +254,9 @@ Remarks:
 | Smash The System (Singles 1990-99) (2005) | Heavenly – HVNLP52CD |
 | So Tough (1993) | Heavenly – HVNLP6CD |
 | So Tough (1993 USA) | Warner Bros. Records – 9 45166-2 |
-| So Tough – 30th Anniversary Edition (2024 LP) | Heavenly – HVNLP6SE |
-| So Tough – 30th Anniversary Edition ǁ 45 (2024 LP) | Heavenly – HVNLP6SE |
-| So Tough – 30th Anniversary Edition ǁ Remains Of The Day (2024 LP) | Heavenly – HVNLP6SE |
+| So Tough – 30th Anniversary Edition (2024) | Heavenly – HVNLP6SE |
+| So Tough – 30th Anniversary Edition ǁ 45 (2024) | Heavenly – HVNLP6SE |
+| So Tough – 30th Anniversary Edition ǁ Remains Of The Day (2024) | Heavenly – HVNLP6SE |
 | So Tough – Deluxe Edition (2009) | Heavenly – HVNLP6CDDE |
 | Soft Like Me (2003 7") | Mantra Recordings – MNT78 |
 | Soft Like Me [CD1] (2003) | Mantra Recordings – MNT78CD1 |
@@ -298,7 +298,7 @@ Remarks:
 | The Bad Photographer [CD1] (1998) | Creation Records – CRESCD 290 |
 | The Bad Photographer [CD2] (1998) | Creation Records – CRESCD 290X |
 | The Broken Voice (1996) | Suburbs Of Hell – SOH-S01-024 |
-| The Character Of Saint Etienne (2022 LP+Download) | Foreign Office – FO 019 |
+| The Character Of Saint Etienne (2022) | Foreign Office – FO 019 |
 | The EMIDISC Theme / On The Brink (1996 7" Promo) | EMIDISC – EMIDISC 101 |
 | The Fred EP (1992 7") | Heavenly – HVN 19 |
 | The Fred EP (1992) | Heavenly – HVN 19CD |
@@ -330,9 +330,9 @@ Remarks:
 | Tiger Bay (1994 Japan) | Warner Bros. Records – WPCR-22 |
 | Tiger Bay (1994 USA) | Warner Bros. Records – 9 45634-2 |
 | Tiger Bay (1996 Europe) | Heavenly – SCR 475962 9 |
-| Tiger Bay – 25th Anniversary Edition (2019 LP) | Heavenly – HVNLP8SE |
-| Tiger Bay – 25th Anniversary Edition ǁ Remains On The Day (2019 LP) | Heavenly – HVNLP8SE |
-| Tiger Bay – 25th Anniversary Edition ǁ Tapestry (2019 LP) | Heavenly – HVNLP8SE |
+| Tiger Bay – 25th Anniversary Edition (2019) | Heavenly – HVNLP8SE |
+| Tiger Bay – 25th Anniversary Edition ǁ Remains On The Day (2019) | Heavenly – HVNLP8SE |
+| Tiger Bay – 25th Anniversary Edition ǁ Tapestry (2019) | Heavenly – HVNLP8SE |
 | Tiger Bay – Deluxe Edition (2010) | Heavenly – HVNLP8CDDE |
 | Tomorrow's Girl (2002 7") | Funky Inc. – FINK013 |
 | Tomorrow's Girl (2020) | Collectors Unite – CU01CD03 |
