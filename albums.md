@@ -263,6 +263,7 @@ Remarks:
 | Soft Like Me [CD2] (2003) | Mantra Recordings – MNT78CD2 |
 | Sound Of Water (2000) | Mantra Recordings – MNTCD1018 |
 | Sound Of Water – Deluxe Edition (2009) | Heavenly – HVNLP72CDDE |
+| Sound Of Water – Deluxe Edition (2017) | Heavenly – HVNLP72CDSE |
 | Speedwell / Nothing Can Stop Us (The Dean Thatcher Mixes) (1991 12") | Heavenly – HVN 912R |
 | Spring (2020 7") | Heavenly – HVN555 |
 | Sunset Spirals (2003 Norway) | Columbia – COL 673937 2 |
