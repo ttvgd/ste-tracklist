@@ -22,60 +22,8 @@ Pedantic corner: Sorting is done according to the actual spelling, which means t
 
 This is a work in progress. Currently you can take a look at:
 
-[Albums](albums.md)
+[Albums](albums.md) —— [0-9](0-9.md) —— [A](a.md) —— [B](b.md) —— C —— D —— E
 
-<details>
-<summary>0-9</summary>
-
-> [0-9](0-9.md)
-
-* [21st Century Christmas](0-9.md#21st-century-christmas)
-* [3D Tiger](0-9.md#3d-tiger)
-* [4 Months, 2 Weeks — *Sarah Cracknell*](0-9.md#4-months-2-weeks--sarah-cracknell)
-* [4.35 In The Morning](0-9.md#435-in-the-morning)
-* [52 Pilot](0-9.md#52-pilot)
-* [7 Summers](0-9.md#7-summers--seven-summersᴬ)
-* [7 Ways To Love — *Cola Boy*](0-9.md#7-ways-to-love--cola-boy)
-
-</details>
-
-<details>
-<summary>A</summary>
-
-> [A](a.md)
-
-* [A Christmas Gift To You](a.md#a-christmas-gift-to-you)
-* [A Gay Tune For Mabel — *Pete Wiggs*](a.md#a-gay-tune-for-mabel--pete-wiggs)
-* [A Good Thing](a.md#a-good-thing)
-* [A Kiss Like This](a.md#a-kiss-like-this)
-* [A Slavic Beauty With A Rose Between Her Teeth](a.md#a-slavic-beauty-with-a-rose-between-her-teeth)
-* [A Tourists Paradise — *Pete Wiggs*](a.md#a-tourists-paradise--pete-wiggs)
-* [Abby I Hardly Knew You](a.md#abby-i-hardly-knew-you)
-* [Absolute Beginners](a.md#absolute-beginners)
-* [Access To All Alone](a.md#access-to-all-alone)
-* [Accident](a.md#accident)
-* [Action](a.md#action)
-* [Afraid To Go Home](a.md#afraid-to-go-home)
-* [After Hebden](a.md#after-hebden)
-* [After The Rain](a.md#after-the-rain)
-* [All Kinds Of People — *The Dreaming Spires feat. Sarah Cracknell*](a.md#all-kinds-of-people--the-dreaming-spires-feat-sarah-cracknell)
-* [All Nite Turtles](a.md#all-nite-turtles)
-* [Amateur](a.md#amateur)
-* [An Old Film Of Mine — *Pete Wiggs*](a.md#an-old-film-of-mine--pete-wiggs)
-* [An Old Photo Of Your New Lover — *The One AM Radio feat. Sarah Cracknell*](a.md#an-old-photo-of-your-new-lover--the-one-am-radio-feat-sarah-cracknell)
-* [Andersen Unbound](a.md#andersen-unbound)
-* [Andrew McCarthy (aka. Hill Street Connection)](a.md#andrew-mccarthy-aka-hill-street-connection)
-* [Angel](a.md#angel)
-* [Angel Of Woodhatch](a.md#angel-of-woodhatch)
-
-</details>
-
-[0-9](0-9.md)  
-[A](a.md)  
-[B](b.md)  
-C  
-D  
-E  
 F  
 G  
 H  
