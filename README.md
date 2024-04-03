@@ -10,11 +10,11 @@ For more details regarding the releases, se this [list](albums.md). The primary 
 
 ## About track durations
 
-Track durations can be a challenge. Often durations include several seconds of silence at the end of the track. This can easily make tracks that are actually the same appear different. When possible, I have checked the digital editions of tracks in my possesion for the actual durations. This means that you will find tracks where the duration I list is not necessary similar to what is either printed on the album or what your preferred streaming app or player of digital files state. I have also tried to take into considation any intro or outro samples or other artifacts that might appear.
+Track durations can be a challenge. Often durations include several seconds of silence at the end of the track. This can easily make tracks that are actually the same appear different. When possible, I have checked the digital editions of tracks in my possesion for the actual durations. This means that you will find tracks where the duration I list is not necessary similar to what is either printed on the album or what your preferred streaming app, player of digital files state, at Discogs or Saint Etienne Disco. Then again, only tracks that seem similar but with slight differences have been checked in detail, all other track durations are given as stated. I have also tried to take into considation any intro or outro samples or other artifacts that might appear.
 
 ## Sorting
 
-Pedantic corner: Sorting is done according to the actual spelling, which means that "a" and "the" are part of the sorting. If you don't like it, well…
+Pedantic corner: Sorting is done according to the actual spelling, which means that "a" and "the" are part of the sorting.
 
 ---
 
@@ -24,10 +24,40 @@ This is a work in progress. Currently you can take a look at:
 
 [Albums](albums.md)
 
-* [0-9](0-9.md)
-* [A](a.md)
-* B
-* C
-* ...
+<details>
+<summary>A</summary>
+
+* [A Christmas Gift To You](a.html#a-christmas-gift-to-you)
+* [A Gay Tune For Mabel — *Pete Wiggs*](a.html#a-gay-tune-for-mabel--pete-wiggs)
+
+</details>
+
+[0-9](0-9.md)  
+[A](a.md)  
+[B](b.md)  
+C  
+D  
+E  
+F  
+G  
+H  
+I  
+J  
+K  
+L  
+M  
+N  
+O  
+P  
+Q  
+R  
+S  
+T  
+U  
+V  
+W  
+X  
+Y  
+Z
 
 If you're curious, all changes can be viewed in the [GitHub repo](https://github.com/ttvgd/ste-tracklist). Click on "[Number] Commits" to see what has changed.
