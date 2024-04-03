@@ -100,7 +100,7 @@
 
 **(4:44)**
 
-> Intro 0:33.
+> Includes intro 0:33.
 
 * Finisterre (2002)
 * Finisterre – Deluxe Edition (2010)
@@ -296,13 +296,13 @@
 
 **(3:25)**
 
-> Outro sample 0:08
+> Includes outro sample 0:08
 
 * You're In A Bad Way (1993)
 
 **(3:27)**
 
-> Intro 0:10
+> Includes intro 0:10
 
 Smash The System (Singles And More) (2001)
 
@@ -376,7 +376,7 @@ Smash The System (Singles And More) (2001)
 
 **(7:40)**
 
-> Outro sample 0:15
+> Includes outro sample 0:15
 
 * So Tough (1993)
 * So Tough – Deluxe Edition (2009)
