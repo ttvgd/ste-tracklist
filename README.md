@@ -27,7 +27,7 @@ This is a work in progress. Currently you can take a look at:
 <details>
 <summary>A</summary>
 
-* [A Christmas Gift To You](a.html#a-christmas-gift-to-you)
+* [A Christmas Gift To You](a.md#a-christmas-gift-to-you)
 * [A Gay Tune For Mabel — *Pete Wiggs*](a.html#a-gay-tune-for-mabel--pete-wiggs)
 
 </details>
