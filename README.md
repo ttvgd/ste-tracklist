@@ -2,7 +2,11 @@
 
 The Saint Etienne Trackless is an attempt to list all tracks by Saint Etienne, Sarah Cracknell and most collaborations. Everything is sorted alphabetically and according to track durations. This includes alternative versions and remixes.
 
-For each variant, the primary releases are shown. Please notice that CDs are preferred over vinyl when possible. Promos are only referred to if they contain unique tracks or it is the first time a specific variant was released.
+For each variant, the primary releases are shown. Please notice that CDs are preferred over vinyl when possible. Promos are only referred to if they contain unique tracks or they were released only in this format at that time.
+
+Reissues are only listed if they are "Deluxe Editions" or "Anniversary Edtions". Later reissues of Deluxe Editions are only listed if there are other tracks or changes.
+
+All compilation albums are included.
 
 ## Sources
 
@@ -26,4 +30,7 @@ This is a work in progress. Currently you can take a look at:
 
 ---
 
+Please bear in mind: This is done for fun and there will be errors.
+
 If you're curious, all changes can be viewed in the [GitHub repo](https://github.com/ttvgd/ste-tracklist). Click on "[Number] Commits" to see what has changed.
+
