@@ -214,7 +214,7 @@
 
 * Angel / Burnt Out Car (1996 Promo)²
 * Casino Classics (1996)¹
-* Continental (1997)
+* Continental (1997 Japan)
 * Smash The System (Singles And More) (2001)
 * Travel Edition 1990-2005 (2004)
 * Smash The System (Singles 1990-99) (2005)
