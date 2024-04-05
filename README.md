@@ -26,7 +26,7 @@ Pedantic corner: Sorting is done according to the actual spelling, which means t
 
 This is a work in progress. Currently you can take a look at:
 
-[Albums](albums.md) • [0-9](0-9.md) • [A](a.md) • [B](b.md) • [C](c.md) • [D](d.md) • [E](e.md) • F • G • H • I • J • K • L • M • N • O • P • Q • R • S • T • U • V • W • X • Y • Z
+[Albums](albums.md) • [0-9](0-9.md) • [A](a.md) • [B](b.md) • [C](c.md) • [D](d.md) • [E](e.md) • [F](f.md) • G • H • I • J • K • L • M • N • O • P • Q • R • S • T • U • V • W • X • Y • Z
 
 ---
 
