@@ -78,7 +78,7 @@
 
 **(4:54)**
 
-> Includes intro 0:10
+> intro / song: 0:10 / 4:44
 
 * So Tough – 30th Anniversary Edition ▶︎ Remains Of The Day (2024)
 

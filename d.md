@@ -217,7 +217,7 @@
 
 **(3:31)**
 
-> Includes outro 0:21
+> song / outro: 3:10 / 0:21
 
 * You're In A Bad Way (1993)
 

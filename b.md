@@ -96,7 +96,7 @@
 
 ## Book Norton
 
-> See also [White Post Lane]()
+> see also [White Post Lane]()
 
 **(2:01)**
 
@@ -115,7 +115,7 @@
 
 **(3:52)**
 
-> Includes intro 0:04, outro (tone) 0:02
+> intro / song / outro: 0:04 / 3:46 / 0:02
 
 * Sound Of Water (2000)
 * Sound Of Water – Deluxe Edition (2009)
@@ -153,13 +153,13 @@
 
 **(3:06)**
 
-> Ends with silence for 0:10
+> song / outro (silence): 2:56 / 0:10
 
 * Tiger Bay (1994 USA)
 
 **(3:10)**
 
-> Starts with last part of [Tankerville]() for 0:15
+> starts with last part of [Tankerville]() for 0:15
 
 * Tiger Bay (1996 Europe)
 

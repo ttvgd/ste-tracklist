@@ -110,8 +110,7 @@
 
 **(4:33)**
 
-> Includes intro 0:07  
-> Includes outro 0:44
+> intro / song / outro: 0:07 / 3:45 / 0:42
 
 * Finisterre (2002)
 * Finisterre – Deluxe Edition (2010)

@@ -74,7 +74,7 @@
 
 ## Accident
 
-> See also [He's On The Phone]()
+> see also [He's On The Phone]()
 
 **(4:30)**
 
@@ -100,7 +100,7 @@
 
 **(4:44)**
 
-> Includes intro 0:33.
+> intro / song: 0:33 / 4:11
 
 * Finisterre (2002)
 * Finisterre – Deluxe Edition (2010)
@@ -183,7 +183,7 @@
 
 ## Andrew McCarthy (aka. Hill Street Connection)
 
-> See also [Hill Street Connection]()
+> see also [Hill Street Connection]()
 
 **(2:55)**
 
@@ -296,13 +296,13 @@
 
 **(3:25)**
 
-> Includes outro sample 0:08
+> song / outro: 3:17 / 0:08
 
 * You're In A Bad Way (1993)
 
 **(3:27)**
 
-> Includes intro 0:10
+> intro / song: 3:17 / 0:10
 
 Smash The System (Singles And More) (2001)
 
@@ -376,7 +376,7 @@ Smash The System (Singles And More) (2001)
 
 **(7:40)**
 
-> Includes outro sample 0:15
+> intro / song: 0:15 / 7:35
 
 * So Tough (1993)
 * So Tough – Deluxe Edition (2009)
