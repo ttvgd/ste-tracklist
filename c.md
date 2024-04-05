@@ -69,13 +69,13 @@
 
 **(5:44)**
 
-* So Tough – 30th Anniversary Edition \|\| Remains Of The Day (2024)
+* So Tough – 30th Anniversary Edition ▶︎ Remains Of The Day (2024)
 
 ## Cat Nap / Catnapᴬ
 
 **(2:46)**
 
-* Good Humor \|\| Fairfax High (1998 USA)
+* Good Humor ▶︎ Fairfax High (1998 USA)
 * Lover Plays The Bass (1999 7")ᴬ
 * Good Humor – Deluxe Edition (2010)
 
@@ -103,7 +103,7 @@
 **(3:32)**
 
 * Foxbase Alpha – Deluxe Edition (2009)
-* Foxbase Alpha – 25th Anniversary Edition \|\| Remains Of The Day (2017)
+* Foxbase Alpha – 25th Anniversary Edition ▶︎ Remains Of The Day (2017)
 
 ## Chicken Soup
 
@@ -128,13 +128,13 @@
 **(1:36)**
 
 * Asleep At The Wheels Of Steel (2002)
-* Boxette \|\| Asleep At The Wheels Of Steel (2008)
+* Boxette ▶︎ Asleep At The Wheels Of Steel (2008)
 
 ## Christmas Boots
 
 **(5:33)**
 
-* A Glimpse Of Stocking \|\| “Personally Dedicated Song” (2010)
+* A Glimpse Of Stocking ▶︎ “Personally Dedicated Song” (2010)
 
 ## Church Pew Furniture Restorer
 
@@ -146,7 +146,7 @@
 
 **(3:15)**
 
-* Good Humor \|\| Fairfax High (1998 USA)
+* Good Humor ▶︎ Fairfax High (1998 USA)
 * Good Humor – Deluxe Edition (2010)
 
 ## Clock Milk
@@ -205,7 +205,7 @@
 
 **(1:10)** Sven Verse
 
-* Tiger Bay – 25th Anniversary Edition \|\| Tapestry (2019)
+* Tiger Bay – 25th Anniversary Edition ▶︎ Tapestry (2019)
 
 **(5:39)**
 

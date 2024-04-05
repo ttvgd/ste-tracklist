@@ -16,7 +16,7 @@
 
 **(3:35)**
 
-* Boxette \|\| Eric Random (2008)
+* Boxette ▶︎ Eric Random (2008)
 
 **(4:00)**
 
@@ -45,7 +45,7 @@
 **(3:55)**
 
 * Valentines Day ’97 (1997)
-* Boxette \|\| Eric Random (2008)
+* Boxette ▶︎ Eric Random (2008)
 
 ## A Tourists Paradise — *Pete Wiggs*
 
@@ -64,7 +64,7 @@
 
 **(5:00)**
 
-* Boxette \|\| Eric Random (2008)
+* Boxette ▶︎ Eric Random (2008)
 
 ## Access To All Alone
 
@@ -112,7 +112,7 @@
 **(6:49)** DJ Tiesto Instrumental Mix = DJ Tiesto Instrumental¹
 
 * Action (DJ Tiesto Remixes) (2002 12" Promo)¹
-* Casino Classics – Deluxe Edition \|\| Bonus Downloads (2012)
+* Casino Classics – Deluxe Edition ▶︎ Bonus Downloads (2012)
 * Mondo Casino (2018)
 
 **(6:50)** DJ Tiesto¹ = DJ Tiesto Mix = DJ Tiesto Remix²
@@ -127,7 +127,7 @@
 **(3:27)**
 
 * Sylvie [CD1] (1998)
-* Good Humor \|\| Fairfax High (1998 USA)
+* Good Humor ▶︎ Fairfax High (1998 USA)
 * Good Humor – Deluxe Edition (2010)
 
 ## After Hebden
@@ -188,7 +188,7 @@
 **(2:55)**
 
 * Built On Sand (1999)
-* Boxette \|\| Built On Sand (2008)
+* Boxette ▶︎ Built On Sand (2008)
 
 ## Angel
 
@@ -311,7 +311,7 @@ Smash The System (Singles And More) (2001)
 **(3:15)**
 
 * Built On Sand (1999)
-* Boxette \|\| Built On Sand (2008)
+* Boxette ▶︎ Built On Sand (2008)
 
 ## Artieripp
 
@@ -364,7 +364,7 @@ Smash The System (Singles And More) (2001)
 **(6:27)** A.R. Kane¹ = A.R. Kane Martial Mix² = Martial Mix
 
 * Avenue (A.R. Kane / Gordon King Remixes) (1992)
-* Casino Classics – Deluxe Edition \|\| Bonus Downloads (2012)¹
+* Casino Classics – Deluxe Edition ▶︎ Bonus Downloads (2012)¹
 * Mondo Casino (2018)²
 
 **(7:34)**

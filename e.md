@@ -31,7 +31,7 @@
 
 **(3:57)** [Live]
 
-* Good Humor \|\| Los Angeles '99 (2023)
+* Good Humor ▶︎ Los Angeles '99 (2023)
 
 **(4:02)**
 
@@ -68,7 +68,7 @@
 **(4:31)**
 
 * So Tough – Deluxe Edition (2009)
-* So Tough – 30th Anniversary Edition \|\| Remains Of The Day (2024)
+* So Tough – 30th Anniversary Edition ▶︎ Remains Of The Day (2024)
 
 ## Everything Flows
 
@@ -80,17 +80,17 @@
 
 > Includes intro 0:10
 
-* So Tough – 30th Anniversary Edition \|\| Remains Of The Day (2024)
+* So Tough – 30th Anniversary Edition ▶︎ Remains Of The Day (2024)
 
 ## Everything I Touch Turns To Gold
 
 **(3:30)**
 
 * I Love To Paint (1955)
-* Boxette \|\| I Love To Paint (2008)
+* Boxette ▶︎ I Love To Paint (2008)
 
 ## Excitation
 
 **(2:12)**
 
-* Tales From Turnpike House \|\| Up The Wooden Hill (2005)
+* Tales From Turnpike House ▶︎ Up The Wooden Hill (2005)

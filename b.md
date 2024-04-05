@@ -28,13 +28,13 @@
 
 **(0:59)**
 
-* Tales From Turnpike House \|\| Up The Wooden Hill (2005)
+* Tales From Turnpike House ▶︎ Up The Wooden Hill (2005)
 
 ## Bedfordshire
 
 **(3:58)**
 
-* Tales From Turnpike House \|\| Up The Wooden Hill (2005)
+* Tales From Turnpike House ▶︎ Up The Wooden Hill (2005)
 
 ## Been So Long
 
@@ -45,20 +45,20 @@
 
 **(4:03)** [Live]
 
-* Good Humor \|\| Los Angeles '99 (2023)
+* Good Humor ▶︎ Los Angeles '99 (2023)
 
 ## Biker Of The Strange
 
 **(2:56)**
 
-* So Tough – 30th Anniversary Edition \|\| Remains Of The Day (2024)
+* So Tough – 30th Anniversary Edition ▶︎ Remains Of The Day (2024)
 
 ## Black Horse Latitude
 
 **(4:23)**
 
 * Tiger Bay – Deluxe Edition (2010)
-* Tiger Bay – 25th Anniversary Edition \|\| Remains On The Day (2019)
+* Tiger Bay – 25th Anniversary Edition ▶︎ Remains On The Day (2019)
 
 ## Blackwall Reach
 
@@ -77,7 +77,7 @@
 **(4:38)**
 
 * Built On Sand (1999)
-* Boxette \|\| Built On Sand (2008)
+* Boxette ▶︎ Built On Sand (2008)
 * Sound Of Water – Deluxe Edition (2017)
 
 **(6:12)** [mastering error starting at 1:32]
@@ -92,7 +92,7 @@
 
 **(4:55)** Vince Clarke Remix
 
-* I've Been Trying To Tell You \|\| Remix EP (2021)
+* I've Been Trying To Tell You ▶︎ Remix EP (2021)
 
 ## Book Norton
 
@@ -139,11 +139,11 @@
 
 **(1:36)** Orchestra
 
-* Tiger Bay – 25th Anniversary Edition \|\| Tapestry (2019)
+* Tiger Bay – 25th Anniversary Edition ▶︎ Tapestry (2019)
 
 **(2:06)** Lynch Frost Bed
 
-* Tiger Bay – 25th Anniversary Edition \|\| Tapestry (2019)
+* Tiger Bay – 25th Anniversary Edition ▶︎ Tapestry (2019)
 
 **(2:56)**
 
@@ -208,7 +208,7 @@
 * Burnt Out Car (2008)
 * Burnt Out Car Mixes (2008)²
 * London Conversations: The Best Of Saint Etienne (2008)
-* Casino Classics – Deluxe Edition \|\| Bonus Downloads (2012)²
+* Casino Classics – Deluxe Edition ▶︎ Bonus Downloads (2012)²
 
 **(4:18)** = Balearico¹ = Balearico Mix²
 

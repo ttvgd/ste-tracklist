@@ -10,7 +10,7 @@
 
 **(2:31)**
 
-* Words And Music By Saint Etienne \|\| More Words And Music (2012 USA)
+* Words And Music By Saint Etienne ▶︎ More Words And Music (2012 USA)
 * Words And Music By Saint Etienne – Deluxe Edition (2020)
 
 ## Fake '88
@@ -22,8 +22,8 @@
 **(5:02)**
 
 * I Love To Paint (1995)
-* Boxette \|\| I Love To Paint (2008)
-* Foxbase Alpha – 25th Anniversary Edition \|\| Remains Of The Day (2017)
+* Boxette ▶︎ I Love To Paint (2008)
+* Foxbase Alpha – 25th Anniversary Edition ▶︎ Remains Of The Day (2017)
 * Foxbase Alpha – Deluxe Edition (2009)
 
 ## Fascination
@@ -48,7 +48,7 @@
 **(3:43)**
 
 * I Love To Paint (1995)
-* Boxette \|\| I Love To Paint (2008)
+* Boxette ▶︎ I Love To Paint (2008)
 
 ## Fifth Floor — *Sarah Cracknell*
 
@@ -72,7 +72,7 @@
 * Smash The System (Singles And More) (2001)
 * London Conversations: The Best Of Saint Etienne (2008)
 * Foxbase Alpha – Deluxe Edition (2009)
-* Foxbase Alpha – 25th Anniversary Edition \|\| Remains Of The Day (2017)
+* Foxbase Alpha – 25th Anniversary Edition ▶︎ Remains Of The Day (2017)
 
 **(5:51)** Monkey Mafia Instrumental Mix
 
@@ -127,13 +127,13 @@
 **(2:48)**
 
 * I Love To Paint (1995)
-* Boxette \|\| I Love To Paint (2008)
+* Boxette ▶︎ I Love To Paint (2008)
 
 ## Fonteyn
 
 **(4:47)** Daniel Avery Remix
 
-* I've Been Trying To Tell You \|\| Remix EP (2021)
+* I've Been Trying To Tell You ▶︎ Remix EP (2021)
 
 **(4:50)**
 
@@ -143,7 +143,7 @@
 
 **(0:24)** Intro Chat
 
-* Tiger Bay – 25th Anniversary Edition \|\| Tapestry (2019)
+* Tiger Bay – 25th Anniversary Edition ▶︎ Tapestry (2019)
 
 **(3:37)** Single Mix
 
@@ -177,7 +177,7 @@
 
 **(49:12)**
 
-* Foxbase Beta \|\| Foxbase Extra (2009)
+* Foxbase Beta ▶︎ Foxbase Extra (2009)
 
 ## French Detective
 
