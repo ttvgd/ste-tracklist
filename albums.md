@@ -118,8 +118,8 @@ Remarks:
 | Heart Failed – Two Lone Swordsmen Remixes (2000 12" Promo) | Mantra Recordings – STET2T |
 | Heart Failed (In The Back Of A Taxi) – Two Lone Swordsmen Mixes (2000 12" Promo) | Mantra Recordings – STET3T |
 | Heart Failed (In The Back Of A Taxi) – Futureshock & Bridge And Tunnel Mixes (2000 12" Promo) | Mantra Recordings – STET4T |
-| Heart Failed (In The Back Of A Taxi) (2000 Promo #1) | Mantra Recordings – STET2CD |
-| Heart Failed (In The Back Of A Taxi) (2000 Promo #2) | Mantra Recordings – none |
+| Heart Failed (In The Back Of A Taxi) (2000 Promo 2tr) | Mantra Recordings – STET2CD |
+| Heart Failed (In The Back Of A Taxi) (2000 Promo 6tr) | Mantra Recordings – none |
 | Heart Failed (In The Back Of A Taxi) [CD1] (2000) | Mantra Recordings – MNT54CD |
 | Heart Failed (In The Back Of A Taxi) [CD2] (2000) | Mantra Recordings – MNT54CD2 |
 | Heavenly Remixes 1 & 2 (2021) | Heavenly – HVNLP188CD |
