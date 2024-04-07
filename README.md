@@ -1,4 +1,4 @@
-# Saint Etienne Tracklist
+# [Saint Etienne Tracklist](https://ttvgd.github.io/ste-tracklist/)
 
 The Saint Etienne Trackless is an attempt to list all tracks by Saint Etienne, Sarah Cracknell and most collaborations. Everything is sorted alphabetically and according to track durations. This includes alternative versions and remixes.
 
