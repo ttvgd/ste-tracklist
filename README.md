@@ -2,7 +2,7 @@
 
 The Saint Etienne Trackless is an attempt to list all tracks by Saint Etienne, Sarah Cracknell and most collaborations. Everything is sorted alphabetically and according to track durations. This includes alternative versions and remixes.
 
-For each variant, the primary releases are shown. Please notice that CDs are preferred over vinyl when possible. Promos are only referred to if they contain unique tracks or they were released only in this format at that time.
+For each variant, the primary releases are shown. Please notice that CDs are preferred over vinyl when possible. Promos are only referred to when they contain unique tracks or they were released only in this format at that time.
 
 Reissues are only listed if they are "Deluxe Editions" or "Anniversary Edtions". Later reissues of Deluxe Editions are only listed if there are other tracks or changes.
 
@@ -10,7 +10,7 @@ All compilation albums are included.
 
 ## Sources
 
-For more details regarding the releases, se this [list](albums.md). The primary source for albums and tracks is [Discogs](https://discogs.com) but of course [Saint Etienne Disco](https://saintetiennedisco.com) has been invaluable.
+For more details regarding the releases, se this [list](releases.md). The primary source for releases and tracks is [Discogs](https://discogs.com) but of course [Saint Etienne Disco](https://saintetiennedisco.com) has been invaluable.
 
 ## About track durations
 
@@ -26,7 +26,7 @@ Pedantic corner: Sorting is done according to the actual spelling, which means t
 
 This is a work in progress. Currently you can take a look at:
 
-[Albums](albums.md) • [0-9](0-9.md) • [A](a.md) • [B](b.md) • [C](c.md) • [D](d.md) • [E](e.md) • [F](f.md) • G • H • I • J • K • L • M • N • O • P • Q • R • S • T • U • V • W • X • Y • Z
+[Releases](releases.md) • [0-9](0-9.md) • [A](a.md) • [B](b.md) • [C](c.md) • [D](d.md) • [E](e.md) • [F](f.md) • [G](g.md) • [H](h.md) • I • J • K • L • M • N • O • P • Q • R • S • T • U • V • W • X • Y • Z
 
 ---
 
