@@ -20,7 +20,9 @@
 * Interlude (2001 USA)
 * Sound Of Water – Deluxe Edition (2009)
 
-**(5:14)** [Ordinary track ends at 4:35, pause 0:11, hidden track starts at 4:46]
+**(5:14)**
+
+> song / pause / hidden track: 4:35 / 0:11 / 0:28
 
 * Heart Failed (In The Back Of A Taxi) [CD1] (2000)
 
@@ -80,7 +82,9 @@
 * Boxette » Built On Sand (2008)
 * Sound Of Water – Deluxe Edition (2017)
 
-**(6:12)** [mastering error starting at 1:32]
+**(6:12)** 
+
+> mastering error starting at 1:32
 
 * Sound Of Water – Deluxe Edition (2009)
 

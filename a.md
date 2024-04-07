@@ -355,7 +355,7 @@ Smash The System (Singles And More) (2001)
 
 * Avenue (A.R. Kane / Gordon King Remixes) (1992)
 
-**(6:21)** Gordon King¹ = Variety Club Mix
+**(6:20)** Gordon King¹ = Variety Club Mix
 
 * Avenue (A.R. Kane / Gordon King Remixes) (1992)
 * Casino Classics (1996)¹

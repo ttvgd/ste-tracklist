@@ -82,6 +82,10 @@
 
 * Too Young To Die (Singles 1990-1995) (1995)
 
+**(5:47)** Naked Bungee Dub
+
+* He's On The Phone (1995 12" Promo)
+
 **(6:01)** Primax = Primax Bungee Dub Mix¹
 
 * He's On The Phone (1996 USA)¹
@@ -320,7 +324,7 @@
 * Kelly's Locker (2000 USA)¹
 * Lipslide – Deluxe Edition (2012)³
 
-**(4:47)** Demo
+**(4:47)** [Demo]
 
 * Continental – Deluxe Edition (2009)
 
@@ -434,7 +438,7 @@
 * Smash The System (Singles 1990-99) (2005)
 * London Conversations: The Best Of Saint Etienne (2008)
 
-**(4:10)** Live
+**(4:10)** [Live]
 
 * Good Humor » Los Angeles '99 (2023)
 

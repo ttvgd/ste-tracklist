@@ -36,6 +36,8 @@
 
 ## Desert Baby — *Sarah Cracknell*
 
+**(4:24)**
+
 * Desert Baby (1997 Scandinavia)
 * Lipslide (1997)
 * Lipslide (2000 USA)

@@ -13,11 +13,11 @@
 * Words And Music By Saint Etienne » More Words And Music (2012 USA)
 * Words And Music By Saint Etienne – Deluxe Edition (2020)
 
-## Fake '88
+## Fake 88 / Fake '88ᴬ
 
 **(4:50)**
 
-* Volume Six (1993)
+* Volume Six (1993)ᴬ
 
 **(5:02)**
 
@@ -143,6 +143,12 @@
 **(0:24)** Intro Chat
 
 * Tiger Bay – 25th Anniversary Edition » Tapestry (2019)
+
+**(3:37)**
+
+> does not have the intro part featured on the other album versions
+
+* Tiger Bay (1996 Europe)
 
 **(3:37)** Single Mix
 

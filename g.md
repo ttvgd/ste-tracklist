@@ -105,6 +105,10 @@
 * Good Humor (1998)
 * Good Humor – Deluxe Edition (2010)
 
+**(4:43)** [Live]
+
+* Good Humor » Los Angeles '99 (2023)
+
 ## Got A Job
 
 > se also [Gotta Jump](g.md#gotta-jump)
