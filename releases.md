@@ -1,9 +1,9 @@
-# Albums
+# Releases
 
 Remarks:
 
 * No country means UK.
-* No format means CD, including CD-singles and CD EPs.
+* No format means CD, including CD singles and CD EPs.
 
 | Title | Cat.No. |
 |---|---|
@@ -378,4 +378,6 @@ Remarks:
 | You Need A Mess Of Help To Stand Alone (1993) | Heavenly – HVNLP7CD |
 | You're In A Bad Way (1993) | Heavenly – HVN 25CD |
 | You're In A Bad Way (1993 Promo USA) | Warner Bros. Records – PRO-CD-5948 |
-| (Unreleased) (2007 Download) | N/A |
+
+
+<!-- | (Unreleased) (2007 Download) | N/A | -->
