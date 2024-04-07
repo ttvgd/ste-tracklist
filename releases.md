@@ -4,6 +4,8 @@ Remarks:
 
 * No country means UK.
 * No format means CD, including CD singles and CD EPs.
+* **»** indicates that the track appears on a specific disc part of a release.
+
 
 | Title | Cat.No. |
 |---|---|
@@ -13,7 +15,7 @@ Remarks:
 | 7 Ways To Love (1991 12") | Arista – 614 526 |
 | 7 Ways To Love (1991 CDEP) | Arista – 664 526 |
 | A Glimpse Of Stocking (2010) | Foreign Office – FO007 |
-| A Glimpse Of Stocking ▶︎ “Personally Dedicated Song” (2010) | Foreign Office – FO007 |
+| A Glimpse Of Stocking » “Personally Dedicated Song” (2010) | Foreign Office – FO007 |
 | A Good Thing (2005 7") | Sanctuary – SANSE412 |
 | A Good Thing (2005 Promo) | Sanctuary – SANPX412 |
 | A Good Thing [CD1] (2005) | Sanctuary – SANXS412 |
@@ -37,10 +39,10 @@ Remarks:
 | Back To Back To Black (2012) | Q Magazine – none |
 | Barbican 13 Sep 14 (2016) | Foreign Office – FO010 |
 | Blade's Love Machine (1991 12" Promo) | Not On Label – BLADE 1 |
-| Boxette ▶︎ Asleep At The Wheels Of Steel (2008) | Foreign Office – FOREIGN OFFICE 004 |
-| Boxette ▶︎ Built On Sand (2008) | Foreign Office – FOREIGN OFFICE 004 |
-| Boxette ▶︎ Eric Random (2008) | Foreign Office – FOREIGN OFFICE 004 |
-| Boxette ▶︎ I Love To Paint (2008) | Foreign Office – FOREIGN OFFICE 004 |
+| Boxette » Asleep At The Wheels Of Steel (2008) | Foreign Office – FOREIGN OFFICE 004 |
+| Boxette » Built On Sand (2008) | Foreign Office – FOREIGN OFFICE 004 |
+| Boxette » Eric Random (2008) | Foreign Office – FOREIGN OFFICE 004 |
+| Boxette » I Love To Paint (2008) | Foreign Office – FOREIGN OFFICE 004 |
 | Boy Is Crying (2000 12" Promo) | Mantra Recordings – STET6T |
 | Boy Is Crying (2000 Promo) | Mantra Recordings – none |
 | Boy Is Crying (2001 12") | Mantra Recordings – MNT60T |
@@ -58,7 +60,7 @@ Remarks:
 | Camel Coat / Little Chef (2018 Download) | Where It's At Is Where You Are – none |
 | Casino Classics (1996) | Heavenly – HVNLP16CD |
 | Casino Classics – Deluxe Edition (2012) | Heavenly – HVNLP16CDDEX |
-| Casino Classics – Deluxe Edition ▶︎ Bonus Downloads (2012 Download) | Heavenly – HVNLP16CDDEX |
+| Casino Classics – Deluxe Edition » Bonus Downloads (2012 Download) | Heavenly – HVNLP16CDDEX |
 | Christmas 2019 (2019) | Foreign Office – FO014 |
 | Coastal Town (1987 12") | 3 Bears Records – TED12-001 |
 | Continental (1997 Japan) | L'appareil-Photo – PHOTO 9 / Readymade Recordings – COCY-80608 |
@@ -84,21 +86,21 @@ Remarks:
 | Foxbase Alpha (1992 USA) | Warner Bros. Records – 9 26793-2 |
 | Foxbase Alpha – Deluxe Edition (2009) | Heavenly – HVNLP1CDDE |
 | Foxbase Alpha – 25th Anniversary Edition (2017) | Heavenly – HVNLP1SE |
-| Foxbase Alpha – 25th Anniversary Edition ▶︎ 45 (2017) | Heavenly – HVNLP1SE |
-| Foxbase Alpha – 25th Anniversary Edition ▶︎ Remains Of The Day (2017) | Heavenly – HVNLP1SE |
+| Foxbase Alpha – 25th Anniversary Edition » 45 (2017) | Heavenly – HVNLP1SE |
+| Foxbase Alpha – 25th Anniversary Edition » Remains Of The Day (2017) | Heavenly – HVNLP1SE |
 | Foxbase Alpha – 30th Anniversary Edition (2022) | Heavenly – HVNLP1G |
-| Foxbase Alpha – 30th Anniversary Edition ▶︎ Foxbase Rarities (2022) | Heavenly – HVNLP1G |
+| Foxbase Alpha – 30th Anniversary Edition » Foxbase Rarities (2022) | Heavenly – HVNLP1G |
 | Foxbase Beta Club Promo (2009 Promo) | Heavenly – none |
 | Foxbase Beta (2009) | Heavenly – HVNLP1CDRX |
-| Foxbase Beta ▶︎ Foxbase Extra (2009) | Heavenly – HVNLP1CDRX-LTD |
+| Foxbase Beta » Foxbase Extra (2009) | Heavenly – HVNLP1CDRX-LTD |
 | Goldie (1997) | Gut Records – CDGUT7 |
 | Good Humor (1998) | Creation Records – CRECD 225 |
 | Good Humor (1998 LP+10") | Creation Records – CRELP225 / CRE 290X |
 | Good Humor (1998 USA) | Sub Pop – SPCD 435 |
-| Good Humor ▶︎ Fairfax High (1998 USA) | Sub Pop – SPCD 435 |
-| Good Humor ▶︎ Bonus CD (1998 France) | Creation Records – SCR 489561 2 / SAMPCS 5427 |
+| Good Humor » Fairfax High (1998 USA) | Sub Pop – SPCD 435 |
+| Good Humor » Bonus CD (1998 France) | Creation Records – SCR 489561 2 / SAMPCS 5427 |
 | Good Humor – Deluxe Edition (2010) | Heavenly – HVNLP71CDDE |
-| Good Humor ▶︎ Los Angeles '99 (2023) | Heavenly – HVNLP71C / Foreign Office – FO 021| 
+| Good Humor » Los Angeles '99 (2023) | Heavenly – HVNLP71C / Foreign Office – FO 021| 
 | Good Morning (2012 12") | Dirk – TIRK079 |
 | Good Morning (2021) | Collectors Unite – CU01CD10 |
 | Growth Of Raindrops (2022) | Collectors Unite – CU02CD03 |
@@ -152,8 +154,8 @@ Remarks:
 | I've Been Trying To Tell You (2021) | Heavenly – HVNLP196CD |
 | I've Been Trying To Tell You – Bandcamp (2021) | Heavenly – none |
 | I've Been Trying To Tell You – Super Deluxe Edition (2021) | Heavenly – HVNLP196SE |
-| I've Been Trying To Tell You ▶︎ Flexi-disc (2021 LP+7") | Heavenly – HVNLP196R / HVN616FLX |
-| I've Been Trying To Tell You ▶︎ Remix EP (2021) | Heavenly – HVNLP196CD / HVNLP196RTCD |
+| I've Been Trying To Tell You » Flexi-disc (2021 LP+7") | Heavenly – HVNLP196R / HVN616FLX |
+| I've Been Trying To Tell You » Remix EP (2021) | Heavenly – HVNLP196CD / HVNLP196RTCD |
 | I've Got Your Music (2012 Promo) | Heavenly – none |
 | I've Got Your Music (2012 7") | Heavenly – HVN243 |
 | I've Got Your Music (2012 12") | Heavenly – HVN243-12 |
@@ -173,7 +175,7 @@ Remarks:
 | Kiss And Make Up (1990) | Heavenly – HVN4CD |
 | Kiss And Make Up (Remix) (1990 12") | Heavenly – HVN412R |
 | Kites (2016 10"+Download) | Cherry Red – BREDLP685 |
-| Kites ▶︎ Bonus Download (2016 10"+Download) | Cherry Red – BREDLP685 |
+| Kites » Bonus Download (2016 10"+Download) | Cherry Red – BREDLP685 |
 | Like A Motorway (1994 7") | Heavenly – HVN 40 |
 | Like A Motorway (1994) | Heavenly – HVN 40CD |
 | Like A Motorway (1994 12" Promo) | Heavenly – HVN 4012Pii |
@@ -255,8 +257,8 @@ Remarks:
 | So Tough (1993) | Heavenly – HVNLP6CD |
 | So Tough (1993 USA) | Warner Bros. Records – 9 45166-2 |
 | So Tough – 30th Anniversary Edition (2024) | Heavenly – HVNLP6SE |
-| So Tough – 30th Anniversary Edition ▶︎ 45 (2024) | Heavenly – HVNLP6SE |
-| So Tough – 30th Anniversary Edition ▶︎ Remains Of The Day (2024) | Heavenly – HVNLP6SE |
+| So Tough – 30th Anniversary Edition » 45 (2024) | Heavenly – HVNLP6SE |
+| So Tough – 30th Anniversary Edition » Remains Of The Day (2024) | Heavenly – HVNLP6SE |
 | So Tough – Deluxe Edition (2009) | Heavenly – HVNLP6CDDE |
 | Soft Like Me (2003 7") | Mantra Recordings – MNT78 |
 | Soft Like Me [CD1] (2003) | Mantra Recordings – MNT78CD1 |
@@ -280,7 +282,7 @@ Remarks:
 | Take The Silver (2015 7") | Cherry Red – CHERRY517 |
 | Take The Silver (2015 Download) | Cherry Red – none |
 | Tales From Turnpike House (2005) | Sanctuary – SANCD271 |
-| Tales From Turnpike House ▶︎ Up The Wooden Hill (2005) | Sanctuary – SANDD271 |
+| Tales From Turnpike House » Up The Wooden Hill (2005) | Sanctuary – SANDD271 |
 | Tales From Turnpike House (2006 USA) | Savoy Jazz – SVY 17580 |
 | Tales From Turnpike House – Deluxe Edition (2010) | Heavenly – HVNLP80CDDE |
 | Tell Me Why (The Riddle) (2000 12" Promo Germany) | Vandit Records – none |
@@ -331,8 +333,8 @@ Remarks:
 | Tiger Bay (1994 USA) | Warner Bros. Records – 9 45634-2 |
 | Tiger Bay (1996 Europe) | Heavenly – SCR 475962 9 |
 | Tiger Bay – 25th Anniversary Edition (2019) | Heavenly – HVNLP8SE |
-| Tiger Bay – 25th Anniversary Edition ▶︎ Remains On The Day (2019) | Heavenly – HVNLP8SE |
-| Tiger Bay – 25th Anniversary Edition ▶︎ Tapestry (2019) | Heavenly – HVNLP8SE |
+| Tiger Bay – 25th Anniversary Edition » Remains On The Day (2019) | Heavenly – HVNLP8SE |
+| Tiger Bay – 25th Anniversary Edition » Tapestry (2019) | Heavenly – HVNLP8SE |
 | Tiger Bay – Deluxe Edition (2010) | Heavenly – HVNLP8CDDE |
 | Tomorrow's Girl (2002 7") | Funky Inc. – FINK013 |
 | Tomorrow's Girl (2020) | Collectors Unite – CU01CD03 |
@@ -366,7 +368,7 @@ Remarks:
 | Words And Music By Saint Etienne – Box Set (2012) | Heavenly – HVNLP92SDE |
 | Words And Music By Saint Etienne (2012 USA) | Heavenly – HVNLP92CDUSA |
 | Words And Music By Saint Etienne – Deluxe Edition (2020) | Heavenly – HVNLP92CDEPE |
-| Words And Music By Saint Etienne ▶︎ More Words And Music (2012 USA) | Heavenly – HVNLP92CDUSA |
+| Words And Music By Saint Etienne » More Words And Music (2012 USA) | Heavenly – HVNLP92CDUSA |
 | Xmas '11 EP (2011) | Heavenly – HVN237CD |
 | Xmas 2003 (2003) | Heavenly – HVN136CD |
 | Xmas 2020 (2020) | Foreign Office – FO 016 |

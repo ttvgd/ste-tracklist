@@ -19,14 +19,14 @@
 **(2:18)**
 
 * Tiger Bay – Deluxe Edition (2010)
-* Tiger Bay – 25th Anniversary Edition ▶︎ Remains On The Day (2019)
+* Tiger Bay – 25th Anniversary Edition » Remains On The Day (2019)
 
 ## Departure Lounge
 
 **(4:25)**
 
 * Valentines Day '97 (1997)
-* Boxette ▶︎ Eric Random (2008)
+* Boxette » Eric Random (2008)
 
 ## Departure Lounge — *Sarah Cracknell*
 
@@ -52,7 +52,7 @@
 **(0:51)**
 
 * I Love To Paint (1995)
-* Boxette ▶︎ I Love To Paint (2008)
+* Boxette » I Love To Paint (2008)
 
 ## Did She Fall Or Was She Pushed
 
@@ -226,7 +226,7 @@
 **(1:15)**
 
 * Asleep At The Wheels Of Steel (2002)
-* Boxette ▶︎ Asleep At The Wheels Of Steel (2008)
+* Boxette » Asleep At The Wheels Of Steel (2008)
 
 ## Dutch TV
 

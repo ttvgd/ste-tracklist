@@ -12,7 +12,7 @@
 **(2:19)**
 
 * Asleep At The Wheels Of Steel (2002)
-* Boxette ▶︎ Asleep At The Wheels Of Steel (2008)
+* Boxette » Asleep At The Wheels Of Steel (2008)
 
 ## Gently
 
@@ -36,7 +36,7 @@
 
 **(1:50)** Coda
 
-* Foxbase Beta ▶︎ Foxbase Extra (2009)
+* Foxbase Beta » Foxbase Extra (2009)
 
 **(3:46)**
 

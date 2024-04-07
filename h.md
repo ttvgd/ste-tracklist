@@ -25,7 +25,7 @@
 * Hug My Soul (4 Songs) (1994)
 * Tiger Bay (1996 Europe)
 * Tiger Bay – Deluxe Edition (2010)
-* Tiger Bay – 25th Anniversary Edition ▶︎ Remains On The Day (2019)
+* Tiger Bay – 25th Anniversary Edition » Remains On The Day (2019)
 
 ## Hats Off To (Roy) Hodgson
 
@@ -71,7 +71,7 @@
 
 **(4:50)** [Live]
 
-* Good Humor ▶︎ Los Angeles '99 (2023)
+* Good Humor » Los Angeles '99 (2023)
 
 **(5:07)** Bungee Vocal Mix = Primax Bungee Vocal Mix¹
 
@@ -165,7 +165,7 @@
 * Heart Failed (In The Back Of A Taxi) (2000 Promo 6tr)
 * Heart Failed (In The Back Of A Taxi) – Futureshock & Bridge And Tunnel Mixes (2000 12" Promo)²
 * Heart Failed (In The Back Of A Taxi) [CD2] (2000)¹
-* Casino Classics – Deluxe Edition ▶︎ Bonus Downloads (2012)³
+* Casino Classics – Deluxe Edition » Bonus Downloads (2012)³
 
 **(?:??)** Two Lone Swordsmen Dub Remix Version 1
 
@@ -235,7 +235,7 @@
 
 * Pale Movie (1994)
 * Tiger Bay – Deluxe Edition (2010)
-* Tiger Bay – 25th Anniversary Edition ▶︎ Remains On The Day (2019)
+* Tiger Bay – 25th Anniversary Edition » Remains On The Day (2019)
 
 ## Hill Street Connection
 
@@ -244,7 +244,7 @@
 **(3:53)**
 
 * Sylvie [CD1] (1998)
-* Good Humor ▶︎ Fairfax High (1998 USA)
+* Good Humor » Fairfax High (1998 USA)
 * Good Humor – Deluxe Edition (2010)
 
 ## Hit The Brakes
@@ -252,7 +252,7 @@
 **(3:46)**
 
 * The Bad Photographer [CD1] (1998)
-* Good Humor ▶︎ Fairfax High (1998 USA)
+* Good Humor » Fairfax High (1998 USA)
 * Good Humor – Deluxe Edition (2010)
 
 ## Hobart Paving
@@ -270,7 +270,7 @@
 **(4:50)** Van Dyke Parks Arrangement
 
 * So Tough – Deluxe Edition (2009)
-* So Tough – 30th Anniversary Edition ▶︎ 45 (2024)
+* So Tough – 30th Anniversary Edition » 45 (2024)
 
 **(4:57)**
 
@@ -284,7 +284,7 @@
 
 **(5:00)** Alan Tarney Mix
 
-* So Tough – 30th Anniversary Edition ▶︎ 45 (2024)
+* So Tough – 30th Anniversary Edition » 45 (2024)
 
 **(5:03)**
 
@@ -371,7 +371,7 @@
 **(5:54)** Dot Allison Mix = Dot Allison Remix¹
 
 * How We Used To Live (2000)
-* Casino Classics – Deluxe Edition ▶︎ Bonus Downloads (2012)
+* Casino Classics – Deluxe Edition » Bonus Downloads (2012)
 * Mondo Casino (2018)¹
 
 **(5:54)** Dot Allison Instrumental Mix
@@ -419,7 +419,7 @@
 
 **(1:15)** Vibes & Strings
 
-* Tiger Bay – 25th Anniversary Edition ▶︎ Tapestry (2019)
+* Tiger Bay – 25th Anniversary Edition » Tapestry (2019)
 
 **(3:35)** Motiv 8 Mix – Radio Edit
 
@@ -436,7 +436,7 @@
 
 **(4:10)** Live
 
-* Good Humor ▶︎ Los Angeles '99 (2023)
+* Good Humor » Los Angeles '99 (2023)
 
 **(4:14)** = Album Version¹
 
@@ -454,7 +454,7 @@
 **(4:27)** Demo
 
 * Tiger Bay – Deluxe Edition (2010)
-* Tiger Bay – 25th Anniversary Edition ▶︎ Remains On The Day (2019)
+* Tiger Bay – 25th Anniversary Edition » Remains On The Day (2019)
 
 **(4:49)** Juan 'Kinky' Hernandez – Nu Bootz Groove = Nu Bootz Groove¹
 
@@ -474,7 +474,7 @@
 * Hug My Soul (5 Mixes) (1994)
 * Hug My Soul (1994 USA)²
 * Hug My Soul (1994 12" USA)³
-* Casino Classics – Deluxe Edition ▶︎ Bonus Downloads (2012)¹
+* Casino Classics – Deluxe Edition » Bonus Downloads (2012)¹
 
 **(6:41)** Motive-8 Dub
 
