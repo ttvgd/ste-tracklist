@@ -56,7 +56,11 @@
 
 ## He's On The Phone
 
-**(4:06)** = Radio Edit¹
+**(2:52)** Live In London 2019
+
+* Reserection – Deluxe Edition (2019 France) — *St. Etienne Daho*
+
+**(4:06)** = Radio Edit¹ = Single²
 
 * He's On The Phone (1995)
 * He's On The Phone (1996 USA)
@@ -68,6 +72,11 @@
 * London Conversations: The Best Of Saint Etienne (2008)
 * Continental – Deluxe Edition (2009)
 * Saint Etienne On 45. Part One (2011)
+* Reserection – Deluxe Edition (2019 France)² — *St. Etienne Daho*
+
+**(4:36)** Accident
+
+* Reserection – Deluxe Edition (2019 France) — *St. Etienne Daho*
 
 **(4:50)** [Live]
 
@@ -81,6 +90,10 @@
 **(5:10)**
 
 * Too Young To Die (Singles 1990-1995) (1995)
+
+**(5:36)** Week-end à Rome – Live In Rennes 1998
+
+* Reserection – Deluxe Edition (2019 France) — *St. Etienne Daho*
 
 **(5:47)** Naked Bungee Dub
 
@@ -260,6 +273,10 @@
 * Good Humor – Deluxe Edition (2010)
 
 ## Hobart Paving
+
+**(4:15)**
+
+* Reserection – Deluxe Edition (2019 France) — *St. Etienne Daho*
 
 **(4:50)** = UK Single Version¹
 

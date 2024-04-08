@@ -166,6 +166,10 @@ Remarks:
 | It's The Taking Part That Counts (2012) | Where It's At Is Where You Are – wiacd2012 |
 | Join Our Club (1992 12" Promo) | Heavenly – HVN 1512P |
 | Join Our Club / People Get Real (1992) | Heavenly – HVN 15CD |
+| Jungle Pulse (1995 Promo #1 France) | Virgin – VISA 3559 |
+| Jungle Pulse (1995 Promo #2 France) | Virgin – VISA 3562 |
+| Jungle Pulse (1995 Promo #3 France) | Virgin – SA 3583 |
+| Jungle Pulse (1995 12" Promo France) | Virgin – VISA 8106 |
 | Kelly's Locker (2000 USA) | Instinct Records - INS532-2 |
 | KENZO Men FW15 Show Soundtrack (2015) | N/A |
 | KENZO Women FW15 Show Soundtrack (2015) | N/A |
@@ -238,6 +242,9 @@ Remarks:
 | Reality Reduction – Dream Music From The Suburbs Of Hell (1993) | Suburbs Of Hell – SOH 013CD |
 | Red Hot + Rhapsody (The Gershwin Groove) (1998 USA) | Antilles – 314 557 788-2 |
 | Red Kite (2015) | Cherry Red – CDBRED662 |
+| Reserection (1995 Europe) | Virgin – 8930702 / 7243 8 93070 2 3 |
+| Reserection (2000 France) | Virgin – 7243 8 50075 2 1 |
+| Reserection – Deluxe Edition (2019 France) | Parlophone / Warner Music France – 954 432 5 |
 | Resistance Is Futile: Doctor Who Remixed (2003 Promo) | BBC – DRW0001 |
 | Ruby Trax (The NME's Roaring Forty) (1992) | New Musical Express – NME40CD |
 | Saint Etienne On 45. Part One (2011 6×7") | Heavenly – 2766365 |
