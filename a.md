@@ -74,7 +74,7 @@
 
 ## Accident / Accident (Week-end à Rome)ᴬ
 
-> see also [He's On The Phone]()
+> see also [He's On The Phone](h.md#hes-on-the-phone)
 
 **(4:30)**
 
@@ -188,7 +188,7 @@
 
 ## Andrew McCarthy (aka. Hill Street Connection)
 
-> see also [Hill Street Connection]()
+> see also [Hill Street Connection](h.md#hill-street-connection)
 
 **(2:55)**
 

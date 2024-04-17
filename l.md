@@ -100,7 +100,7 @@
 
 ## Le premier jour du reste de ta vie — *St. Etienne Daho*
 
-> see also [Ready Or Not]()
+> see also [Ready Or Not](r.md#ready-or-not--sarah-cracknell)
 
 **(4:09)**
 
