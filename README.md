@@ -26,7 +26,7 @@ Pedantic corner: Sorting is done according to the actual spelling, which means t
 
 This is a work in progress. Currently you can take a look at:
 
-[Releases](releases.md) • [0-9](0-9.md) • [A](a.md) • [B](b.md) • [C](c.md) • [D](d.md) • [E](e.md) • [F](f.md) • [G](g.md) • [H](h.md) • [I](i.md) • [J](j.md) • [K](k.md) • [L](l.md) • [M](m.md) • [N](n.md) • [O](o.md) • [P](p.md) • [Q](q.md) • [R](r.md) • [S](s.md) • [T](t.md) • U • V • W • X • Y • Z
+[Releases](releases.md) • [0-9](0-9.md) • [A](a.md) • [B](b.md) • [C](c.md) • [D](d.md) • [E](e.md) • [F](f.md) • [G](g.md) • [H](h.md) • [I](i.md) • [J](j.md) • [K](k.md) • [L](l.md) • [M](m.md) • [N](n.md) • [O](o.md) • [P](p.md) • [Q](q.md) • [R](r.md) • [S](s.md) • [T](t.md) • [U](u.md) • W • X • Y • Z
 
 ---
 
