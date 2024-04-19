@@ -23,6 +23,8 @@
 
 ## Railway Jam
 
+> see also [Orpington Blue](o.md#orpington-blues)
+
 **(4:14)**
 
 * So Tough (1993)

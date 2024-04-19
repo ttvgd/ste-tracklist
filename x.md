@@ -2,6 +2,8 @@
 
 ## X Amours
 
+> see also [Paper](p.md#paper)
+
 **(3:21)**
 
 * Dans la peau de Daho (1981-2002) (2002 3×CD France)

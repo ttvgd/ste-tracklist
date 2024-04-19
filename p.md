@@ -45,7 +45,7 @@
 
 ## Paper
 
-> see also [X Amours]()
+> see also [X Amours](x.md#x-amours)
 
 **(3:59)** Demo
 
@@ -229,6 +229,8 @@
 * How We Used To Live (Original Film Soundtrack) (2014)
 
 ## Primrose Hill
+
+> see also [Soft Like Me](s.md#soft-like-me)
 
 **(2:09)**
 

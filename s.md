@@ -87,6 +87,8 @@ Sadie's Anniversary
 
 ## Shad Thames
 
+> see also [More Statues](m.md#more-statues)
+
 **(3:32)**
 
 * Continental (1997 Japan)
@@ -222,6 +224,8 @@ Sadie's Anniversary
 * Finisterre – Deluxe Edition (2010)
 
 ## Soft Like Me
+
+> see also [Primrose Hill](p.md#primrose-hill)
 
 **(4:01)** Mr Joshua Mix = Mr Joshua Remix¹
 
@@ -422,6 +426,8 @@ Sadie's Anniversary
 * The Misadventures Of Saint Etienne (1999 Japan)
 
 ## Steeplechase
+
+> see also [The Leyton Art Inferno](t.md#the-leyton-art-inferno)
 
 **(3:21)**
 

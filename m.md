@@ -198,6 +198,8 @@
 
 ## More Statues
 
+> see also [Shad Thames](s.md#shad-thames)
+
 **(0:45)**
 
 * The Misadventures Of Saint Etienne (1999 Japan)

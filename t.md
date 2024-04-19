@@ -472,6 +472,8 @@
 
 ## The Leyton Art Inferno
 
+> see also [Steeplechase](s.md#steeplechase)
+
 **(2:01)**
 
 * Side Streets [CD2] (2005)
