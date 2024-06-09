@@ -39,6 +39,7 @@ Remarks:
 | Back To Back To Black (2012) | Q Magazine – none |
 | Barbican 13 Sep 14 (2016) | Foreign Office – FO010 |
 | Blade's Love Machine (1991 12" Promo) | Not On Label – BLADE 1 |
+| Bob Stanley And Pete Wiggs Present Fell From The Sun: Downtempo And After Hours 1990-91 (2022) | Ace – CDCHD 1596 |
 | Boxette » Asleep At The Wheels Of Steel (2008) | Foreign Office – FOREIGN OFFICE 004 |
 | Boxette » Built On Sand (2008) | Foreign Office – FOREIGN OFFICE 004 |
 | Boxette » Eric Random (2008) | Foreign Office – FOREIGN OFFICE 004 |

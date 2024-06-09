@@ -304,6 +304,10 @@ Sadie's Anniversary
 
 ## Speedwell
 
+**(4:32)** Radio Edit
+
+* Bob Stanley And Pete Wiggs Present Fell From The Sun: Downtempo And After Hours 1990-91 (2022)
+
 **(5:55)** The Aloof
 
 * Casino Classics – Deluxe Edition (2012)
