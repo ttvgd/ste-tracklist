@@ -79,6 +79,12 @@ Sadie's Anniversary
 * Kelly's Locker (2000 USA)
 * Lipslide – Deluxe Edition (2012)
 
+## Settle In
+
+**(3:04)**
+
+* The Night (2024)
+
 ## Seventeenth Century Sea
 
 **(3:40)**

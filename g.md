@@ -55,6 +55,12 @@
 
 * Foxbase Beta (2009)
 
+## Gold
+
+**(2:06)**
+
+* The Night (2024)
+
 ## Goldie
 
 **(4:28)** Radio Edit

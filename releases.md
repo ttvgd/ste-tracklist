@@ -71,6 +71,7 @@ Remarks:
 | Daho Singles + Bienvenue à la maison Live (1998 France) | Virgin – 7243 8 46692 0 1 |
 | Dance Remixes Volume 1 – Stars Above Us (2006 USA) | Savoy Jazz – SVY 17602 |
 | Dans la peau de Daho (1981-2002) (2002 France) | Virgin – 7243 8 1316 3 2 |
+| Deep Into The Night (2024) | Foreign Office – FO 024 |
 | Desert Baby (1997 Scandinavia) | Gut Records – SARAHCD 1 |
 | Dive (2017 Promo) | Heavenly – none |
 | Dive (2017) | Heavenly – HVN412CD |
@@ -335,6 +336,7 @@ Remarks:
 | The Journey Continues (2009 Download) | Pacha Recordings – PB 015 |
 | The Misadventures Of Saint Etienne (1999 Japan) | L'appareil-Photo Bis – bis 02 |
 | The Mistletoe Bough (1904) (2013) | N/A |
+| The Night (2024) | Heavenly | HVNLP233CD |
 | The Sea (PFM Mix) (1996 10" Promo) | Heavenly – HVNLP16P2 |
 | This Is Tomorrow (2007 7") | Heavenly – HVN 173 |
 | Tiger Bay (1994) | Heavenly – HVNLP8CD |

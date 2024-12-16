@@ -160,6 +160,12 @@
 
 * Surrey North EP (2018)
 
+## Alone Together
+
+**(4:21)**
+
+* The Night (2024)
+
 ## Amateur
 
 **(3:40)**

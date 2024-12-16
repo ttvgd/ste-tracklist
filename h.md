@@ -17,6 +17,10 @@
 
 * Half Light (2024)
 
+**(1:54)**
+
+* The Night (2024)
+
 ## Half Timbered
 
 > see also [Late Morning](l.md#late-morning)
@@ -135,6 +139,12 @@
 **(7:57)** The Time And Space Machine Waltzer Remix
 
 * Words And Music By Saint Etienne – Deluxe Edition (2012)
+
+## Hear My Heart
+
+**(6:04)**
+
+* The Night (2024)
 
 ## Heart Failed (In The Back Of A Taxi)
 

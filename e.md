@@ -12,6 +12,12 @@
 
 * Abstractions Of Holderness (Original Film Soundtrack) (2018)
 
+## Ellar Carr
+
+**(0:54)**
+
+* The Night (2024)
+
 ## Empire State High — *Sarah Cracknell*
 
 **(3:36)**

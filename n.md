@@ -38,6 +38,12 @@
 
 * Burnt Out Car (2008)
 
+## Nightingale
+
+**(4:09)**
+
+* The Night (2024)
+
 ## No Cure For The Common Christmas
 
 **(4:26)**
@@ -56,9 +62,21 @@
 * So Tough – Deluxe Edition (2009)
 * So Tough – 30th Anniversary Edition (2024 LP)
 
+## No Rush
+
+**(3:09)**
+
+* The Night (2024)
+
 ## No, No, No, No, No (La Poupée Qui Fait Non)
 
 > see [La poupée qui fait non / La Poupee Qui Fait Non (No, No, No)](l.md#la-poupée-qui-fait-non--la-poupee-qui-fait-non-no-no-noᴬ--no-no-no-no-no-la-poupée-qui-fait-nonᴮ)
+
+## Northern Counties East
+
+**(2:44)**
+
+* The Night (2024)
 
 ## Northwestern
 

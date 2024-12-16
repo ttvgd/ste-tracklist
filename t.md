@@ -280,6 +280,12 @@
 * The EMIDISC Theme / On The Brink (1996 7" Promo)
 * Good Humor – Deluxe Edition (2010)
 
+## The Far Plains
+
+**(2:21)**
+
+* Deep Into The Night (2024)
+
 ## The Great Park — *Pete Wiggs*
 
 **(2:32)**
@@ -593,6 +599,12 @@
 * The Sea (PFM Mix) (1996 10" Promo)
 * Casino Classics (1996)¹
 
+## The Tony Miller Approach
+
+**(7:45)**
+
+* Deep Into The Night (2024)
+
 ## The Way I Fell For You
 
 **(4:08)**
@@ -669,6 +681,12 @@
 **(3:25)**
 
 * How We Used To Live (Original Film Soundtrack) (2014)
+
+## Through The Glass
+
+**(2:42)**
+
+* The Night (2024)
 
 ## Through The Winter
 

@@ -85,6 +85,18 @@
 
 * Abstractions Of Holderness (Original Film Soundtrack) (2018)
 
+## Cedar Of Lebanon
+
+**(1:48)**
+
+* Deep Into The Night (2024)
+
+## Celestial
+
+**(1:39)**
+
+* The Night (2024)
+
 ## Channelsea
 
 **(1:07)**
