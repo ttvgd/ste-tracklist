@@ -173,6 +173,10 @@
 * Heart Failed (In The Back Of A Taxi) (2000 Promo 6tr)
 * Heart Failed (In The Back Of A Taxi) – Two Lone Swordsmen Mixes (12" Promo)¹
 
+**(3:55)**
+
+* Sound Of Water (2000 Promo)
+
 **(4:09)** Two Lone Swordsmen Dub = Two Lone Swordsmen Dub Mix¹
 
 * Heart Failed (In The Back Of A Taxi) (2000 Promo 6tr)
@@ -449,6 +453,10 @@
 **(9:47)** Paul van Dyk Mix
 
 * Boy Is Crying (2001 12")
+
+**(9:50)**
+
+* Sound Of Water (2000 Promo)
 
 **(11:17)** Route De Rock, Brittany, 2000
 

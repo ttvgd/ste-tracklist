@@ -136,6 +136,7 @@ Sadie's Anniversary
 * Boy Is Crying (2000 Promo)
 * Interlude (2001 USA)
 * Boy Is Crying (2001)
+* Sound Of Water (2000 Promo)
 * Sound Of Water – Deluxe Edition (2009)
 
 ## Shopping Spree — *Pete Wiggs*
@@ -628,6 +629,10 @@ Sadie's Anniversary
 
 * Sound Of Water (2000)
 * Sound Of Water – Deluxe Edition (2009)
+
+**(4:16)**
+
+* Sound Of Water (2000 Promo)
 
 ## Sylvie
 

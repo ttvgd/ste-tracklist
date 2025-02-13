@@ -273,6 +273,7 @@ Remarks:
 | Soft Like Me (2003 7") | Mantra Recordings – MNT78 |
 | Soft Like Me [CD1] (2003) | Mantra Recordings – MNT78CD1 |
 | Soft Like Me [CD2] (2003) | Mantra Recordings – MNT78CD2 |
+| Sound Of Water (2000 Promo) | Mantra Recordings – [none](https://www.discogs.com/release/11641099-Saint-Etienne-Sound-Of-Water) |
 | Sound Of Water (2000) | Mantra Recordings – MNTCD1018 |
 | Sound Of Water – Deluxe Edition (2009) | Heavenly – HVNLP72CDDE |
 | Sound Of Water – Deluxe Edition (2017) | Heavenly – HVNLP72CDSE |
