@@ -162,9 +162,25 @@
 
 ## Alone Together
 
+**(4:00)** Extended Mix
+
+* Alone Together – Remix EP (2025)
+
 **(4:21)**
 
 * The Night (2024)
+
+**(4:43)** Morecambe Pier Dub
+
+* Alone Together – Remix EP (2025)
+
+**(5:02)** Hove Lawns Sunset Mix
+
+* Alone Together – Remix EP (2025)
+
+**(7:24)** Cosmodelica Mix
+
+* Alone Together – Remix EP (2025)
 
 ## Amateur
 

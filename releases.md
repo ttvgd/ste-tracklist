@@ -26,6 +26,7 @@ Remarks:
 | Action [CD1] (2002) | Mantra Recordings – MNT73CD |
 | Action [CD2] (2002) | Mantra Recordings – MNT73CD2 |
 | After The Rain (2021) | Foreign Office – FO 017 |
+| Alone Together – Remix EP (2025) | Heavenly – HVN815CD |
 | An Old Photo Of Your New Lover (Saint Etienne Remix) (2011 Download) | Not On Label – none |
 | Angel / Burnt Out Car (1996 Promo) | Heavenly – HVNLP16RP1 |
 | Angel / Nothing Can Stop Us (1996 12" Promo) | Heavenly – HVNLP16P3 |
